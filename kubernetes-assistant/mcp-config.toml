@@ -2,7 +2,7 @@
 
 kubeconfig = "kubeconfig"
 
-port = "8080"
+port = "8081"
 bind_address = "127.0.0.1"
 read_only = true
 toolsets = ["core"]
